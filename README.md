@@ -4,7 +4,7 @@
 # Imlplement this feature usign this library => "react-native-draggable": "^3.3.0",
 
 # Screens1
-![Page 1](/screenshots/Screenshot_2023-01.jpg?raw=true "Optional Title")
+![Page 1](/screenshots/Screenshot_2023-01.jpg?raw=true&&width=50  "Optional Title")
 
 # Screens2
 ![Page 1](/screenshots/Screenshot_2023-02.jpg?raw=true "Optional Title")
